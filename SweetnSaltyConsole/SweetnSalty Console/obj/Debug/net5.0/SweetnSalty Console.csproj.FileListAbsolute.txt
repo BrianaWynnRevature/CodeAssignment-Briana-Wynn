@@ -1,0 +1,16 @@
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console.deps.json
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console.runtimeconfig.json
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console.runtimeconfig.dev.json
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console.dll
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/ref/SweetnSalty Console.dll
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/bin/Debug/net5.0/SweetnSalty Console.pdb
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.csproj.AssemblyReference.cache
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.AssemblyInfoInputs.cache
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.AssemblyInfo.cs
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.csproj.CoreCompileInputs.cache
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.dll
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/ref/SweetnSalty Console.dll
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.pdb
+/home/briana/revature/CodeAssignment-Briana-Wynn/SweetnSaltyConsole/SweetnSalty Console/obj/Debug/net5.0/SweetnSalty Console.genruntimeconfig.cache
